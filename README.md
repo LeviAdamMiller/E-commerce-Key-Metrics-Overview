@@ -1,6 +1,6 @@
 # E-commerce-Key-Metrics-Overview
 
-## project objective
+## Project Objective
 The client aimed to better understand the relationship between different business metrics and overall e-commerce performance. This involved analyzing correlations between customer count, category sales, and regional distribution, highlighting key performance drivers, and surfacing opportunities to optimize resource allocation for improved business outcomes.
 
 ## Dataset Used
@@ -31,5 +31,5 @@ The client aimed to better understand the relationship between different busines
 - Profits exhibit clear seasonal trends, with two prominent peaks: one in March, reaching approximately ₹7.5K, and a substantial surge in October exceeding ₹8K. The company faced losses during June and July, likely due to reduced consumer spending during the monsoon season. The October spike corresponds with the festive period, particularly Diwali, driving increased sales.
 - The heat map shows strong activity in northern and central India, highlighting expansion opportunities in underserved regions.
 
-  ## Final Conclusion
+## Final Conclusion
   This Indian e-commerce business shows strong fundamentals with a 5.6% profit margin and clear seasonal sales patterns. To maximize growth, the company should focus on boosting festive season performance, especially during Diwali, by increasing inventory and launching targeted marketing for high-demand categories like Sarees. Addressing losses during the June and July monsoon season will require introducing relevant product lines and effective promotional strategies. The geographic heat map highlights underserved regions that offer clear expansion opportunities. With ₹431K in revenue from only 500 customers, there is significant potential to scale through customer retention and acquisition while maintaining strong unit economics of ₹863 per customer. The business should also diversify beyond clothing into promising segments like Electronics, particularly mobile phones, and explore counter-seasonal and B2B product opportunities to ensure year-round stability. Long-term success will depend on growing the customer base to over 2,000, improving inventory forecasting for seasonal trends, and strategically entering new markets. The company’s future lies in strengthening its lead in traditional apparel during peak seasons while evolving into a more diversified, geographically expanded, and seasonally balanced business.
